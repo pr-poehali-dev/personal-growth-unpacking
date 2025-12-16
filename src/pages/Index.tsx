@@ -439,7 +439,7 @@ const Index = () => {
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-white/50 backdrop-blur-sm border-t">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-muted-foreground">
-            Юлия Белова • Коуч и специалист по расстановкам • 
+            Юлия Белова • Психолог, коуч, расстановщик • 
             <a href="https://t.me/ubelovacoach" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline ml-2">
               @ubelovacoach
             </a>
